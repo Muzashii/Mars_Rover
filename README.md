@@ -1,9 +1,14 @@
-# Mars Rover
+# Chassis design of a Mars Rover🛠🤖🛠 - Computer-aided Design programs
 
-Projeto de robô para Marte
+## Introduction
 
-protótipo do chassi de um Mars rover, feito durante um trabalho de faculdade, feito completamente em 3D no programa Inventor
+##### Project proposed by FIAP college.
+##### Development project of a chassis for a Mars Rover in cad software.
 
 # Imagens
 
 ![imagem do projeto](https://github.com/Muzashii/Mars_Rover/blob/main/foto.png)
+
+## Installation
+
+##### Use Autodesk Inventor or Autodesk Fusion to open the file.
